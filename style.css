@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image:url(https://images.pexels.com/photos/3818178/pexels-photo-3818178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow-y: hidden;
+}
+
+h1 {
+    text-shadow: 3px 0 0 #454545;
+    color: #FFF;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 5% 0;
+}
+
+.aling {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+button {
+    padding: 10px;
+    margin: 5% 10px;
+    border: 1px solid cornflowerblue;
+    background-color: rgb(64, 89, 136);
+    color: #EEE;
+    font-weight: 300;
+    font-size: 18px;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+
+button:active {
+    background: coral;
+}
+
+.hero {
+    font-size: 25px;
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+    border: 1px solid #1c0a3d;
+    background: rgba(220, 20, 60, 0.815);
+    padding: 20px 0;
+    width: 500px;
+    height: 60px;
+}
