@@ -1,5 +1,5 @@
-Isso é apeans um exercício que decidi fazer para praticar os novos conceiitos e funções que foram aprendidas n auala de JS
+Isso é apenas um exercício que decidi fazer para praticar os novos conceitos e funções que foram aprendidas na auala de JS
 
-<h2><em>Gif</em> De como ficou o exercícios</h2>
+<h2><em>Gif</em> De como ficou o exercício</h2>
 
 <img src="DateEx.gif">
